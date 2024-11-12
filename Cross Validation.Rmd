@@ -1,0 +1,12 @@
+---
+title: "Cross Validation"
+author: "Miriam Lachs"
+date: "2024-11-12"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(modelr)
+library(mgcv)
+```
